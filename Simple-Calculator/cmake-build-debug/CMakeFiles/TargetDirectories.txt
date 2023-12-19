@@ -1,3 +1,0 @@
-C:/Users/topra/OneDrive/Masaüstü/Learning-C/Simple-Calculator/cmake-build-debug/CMakeFiles/Simple_Calculator.dir
-C:/Users/topra/OneDrive/Masaüstü/Learning-C/Simple-Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/topra/OneDrive/Masaüstü/Learning-C/Simple-Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
